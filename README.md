@@ -1,43 +1,88 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mohaiman%20Ibna%20Hasan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
-
-
-
-## 📌 About Me
-- I'm Mohaiman, a Computer Science student passionate about software engineering, HCI, and problem-solving. I enjoy building things, exploring how technology interacts with people, and diving deep into concepts that spark my curiosity.
-- Outside of coding, you'll find me behind a camera, designing graphics, trying out new restaurants, or hanging out with friends.
-- 🌱 Always learning, always building, always curious.
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:mohaiman99a@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Mohaiman Ibna Hasan's Email"/></a>
-</p>
-
-
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=210&color=gradient&customColorList=12,20,24,30&text=MOHAIMAN%20IBNA%20HASAN&fontSize=32&fontAlign=50&fontAlignY=50&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3000&pause=1000&color=7C6CFF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Human-Computer+Interaction;Problem+Solver;Always+Learning"/>
+
 </div>
 
+---
+
+<h3>About</h3>
+
+I'm Mohaiman, a Computer Science student passionate about software engineering, HCI, and problem-solving.
+
+🌱 I enjoy building products, exploring technology, studying user experiences, and creating things that make an impact.
+
+---
+
+<h3>Interests</h3>
+
+<table>
+<tr>
+<td align="center">
+
+📷<br> <b>Photography</b>
+
+</td>
+
+<td align="center">
+
+🎨<br> <b>Graphic Design</b>
+
+</td>
+
+<td align="center">
+
+☕<br> <b>Food & Dining</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🎬<br> <b>Movies</b>
+
+</td>
+
+<td align="center">
+
+🏴‍☠️<br> <b>One Piece</b>
+
+</td>
+
+<td align="center">
+
+🔬<br> <b>HCI Research</b>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3>Tech Stack</h3>
+
+<p>
+<b>Languages</b>
+<br><br>
+<img height="36" src="https://skillicons.dev/icons?i=java,python"/>
+</p>
+
+<p>
+<b>Frontend</b>
+<br><br>
+<img height="36" src="https://skillicons.dev/icons?i=html,css"/>
+</p>
+
+<p>
+<b>Design</b>
+<br><br>
+
+<img height="36" src="https://skillicons.dev/icons?i=figma"/>
+
+
+</p>
