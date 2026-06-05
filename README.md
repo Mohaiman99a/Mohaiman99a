@@ -8,15 +8,14 @@
 
 </div>
 
----
 
-<h3>About</h3>
 
-I'm Mohaiman, a Computer Science student passionate about software engineering, HCI, and problem-solving.
 
-🌱 I enjoy building products, exploring technology, studying user experiences, and creating things that make an impact.
-
----
+<div style="font-family: 'Courier New', Courier, monospace;">
+  <p>
+    I'm Mohaiman, a Computer Science student passionate about software engineering, HCI, and problem-solving. I enjoy watching technology reviews, study user experiences, and create things that make an impact.
+  </p>
+</div>
 
 <h3>Interests</h3>
 
@@ -62,7 +61,6 @@ I'm Mohaiman, a Computer Science student passionate about software engineering, 
 </tr>
 </table>
 
----
 
 <h3>Tech Stack</h3>
 
