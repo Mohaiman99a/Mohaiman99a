@@ -4,7 +4,7 @@ I'm Mohaiman, a Computer Science student passionate about software engineering, 
 
 Outside of coding, you'll find me behind a camera, designing graphics, trying out new restaurants, or hanging out with friends.
 
-Always learning, always building, always curious.
+🌱 Always learning, always building, always curious.
 
 <!--
 **Mohaiman99a/Mohaiman99a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
