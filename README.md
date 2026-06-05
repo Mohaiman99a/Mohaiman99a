@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3000&pause=1000&color=7C6CFF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Human-Computer+Interaction;Problem+Solver;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3000&pause=1000&color=7C6CFF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;HCI+Enthusiast;Problem+Solver;Always+Learning"/>
 
 </div>
 
