@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mohaiman%20Ibna%20Hasan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="none" alt="Banner" width="100%" />
+
 
 ## 📌 About Me
 - I'm Mohaiman, a Computer Science student passionate about software engineering, HCI, and problem-solving. I enjoy building things, exploring how technology interacts with people, and diving deep into concepts that spark my curiosity.
