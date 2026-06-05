@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey there 👋
+
+I'm Mohaiman, a Computer Science student passionate about software engineering, HCI, data analytics, and problem-solving. I enjoy building things, exploring how technology interacts with people, and diving deep into concepts that spark my curiosity.
+
+Outside of coding, you'll find me behind a camera, designing graphics, trying out new restaurants, or hanging out with friends.
+
+Always learning, always building, always curious.
 
 <!--
 **Mohaiman99a/Mohaiman99a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
